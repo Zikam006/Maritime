@@ -1,0 +1,47 @@
+body {
+    background-image: url(/water\ ship.jpg);
+    background-size: cover;
+    color: rgb(38, 8, 33);
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 100%;
+}
+    header {
+        background-color: rgb(147, 147, 193);
+        background-size: cover;
+        padding:10px;
+        margin: 0px;
+        color: rgb(24, 16, 70);
+        display: flex;
+        justify-content: space-between;
+    }
+    a {
+        background-color: rgb(151, 24, 24);
+        color: white;
+        padding: 10px;
+        margin: 20px;
+        text-align: center;
+        text-decoration: none;
+        height: 20px;
+        text-transform: uppercase;
+         border-radius: 20px;
+         font-weight: bold;
+    }
+    header .button-container {
+        gap: 10px ;
+    padding: 30px;
+    }
+#message-us-button {
+    background-color: white;
+    color: black;
+    }
+    section {
+        margin: 50px;
+    }
+    .section-3 {
+        color: white;
+    }
+    .fa-facebook-square {
+        font-size: 20px;
+        color: blue;
+    }
